@@ -31,7 +31,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Pendaftaran ktp</title>
+        <title>Pendaftaran ktpppppp</title>
         <style>
             body{
                 background: #CCFFFF;
